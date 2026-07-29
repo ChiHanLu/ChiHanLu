@@ -62,7 +62,7 @@ plus `Claude` · `Gemini` · `RAG pipelines` · `MCP`
 
 <br clear="all" />
 
-<img src="https://streak-stats.demolab.com?user=ChiHanLu&hide_border=true&disable_animations=true&background=0d1117&stroke=30363d&ring=38BDF8&fire=EA4335&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38BDF8&sideLabels=8b949e&dates=8b949e" width="100%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ChiHanLu&theme=github-dark-blue&hide_border=true&disable_animations=true" width="100%" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiHanLu&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=38BDF8&point=ffffff&hide_border=true&area=true" width="100%" alt="activity graph" />
 
