@@ -60,8 +60,13 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChiHanLu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiHanLu&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<!-- github-readme-stats 的公用實例常年 503，這裡用 profile-summary-cards -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChiHanLu&theme=github_dark" alt="profile summary" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiHanLu&theme=github_dark" alt="repos per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiHanLu&theme=github_dark" alt="most commit language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiHanLu&theme=github_dark" alt="stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiHanLu&theme=github_dark&utcOffset=8" alt="productive time" />
 
 <img width="98%" src="https://streak-stats.demolab.com?user=ChiHanLu&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=EA4335&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
