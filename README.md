@@ -34,7 +34,7 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,mysql,ts,react,nextjs,tailwind,docker,git,vercel&theme=dark" alt="tech stack" />
 
-`PHP` `Laravel` `Python` `Flask` `MySQL` · `TypeScript` `React` `Next.js` `Tailwind` · `Docker` `Git` `Vercel` · `Claude` `Gemini`
+plus `Claude` · `Gemini` · `RAG pipelines` · `MCP`
 
 </div>
 
@@ -62,7 +62,7 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 
 <br clear="all" />
 
-<img src="https://streak-stats.demolab.com?user=ChiHanLu&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=EA4335&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ChiHanLu&hide_border=true&disable_animations=true&background=0d1117&stroke=30363d&ring=38BDF8&fire=EA4335&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38BDF8&sideLabels=8b949e&dates=8b949e" width="100%" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiHanLu&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=38BDF8&point=ffffff&hide_border=true&area=true" width="100%" alt="activity graph" />
 
