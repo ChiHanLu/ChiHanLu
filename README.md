@@ -52,13 +52,13 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChiHanLu&theme=github_dark" width="100%" alt="profile summary" />
 
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiHanLu&theme=github_dark" alt="repos per language" />
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiHanLu&theme=github_dark" alt="most commit language" />
+<img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiHanLu&theme=github_dark" alt="repos per language" />
+<img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiHanLu&theme=github_dark" alt="most commit language" />
 
 <br clear="all" />
 
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiHanLu&theme=github_dark" alt="stats" />
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiHanLu&theme=github_dark&utcOffset=8" alt="productive time" />
+<img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiHanLu&theme=github_dark" alt="stats" />
+<img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiHanLu&theme=github_dark&utcOffset=8" alt="productive time" />
 
 <br clear="all" />
 
