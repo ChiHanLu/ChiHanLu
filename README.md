@@ -1,18 +1,23 @@
-<div align="center">
+<!--
+  排版注意事項：GitHub 現在的全站 CSS reset 是 `img, picture { display: block }`，
+  所以同一段裡的多張圖片會「一行一張」，傳統 badge 橫排寫法已經失效。
+  橫排只能靠：(1) 單張合併圖（skillicons）或 (2) img 的 align 屬性做浮動。
+  以下刻意採用這兩種，不要改回一行一個 <img> 的寫法。
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=LuHan&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineering%20%C2%B7%20AI%20Applications&descSize=18&descAlignY=60" width="100%" alt="header" />
 
-<a href="https://luhanspacelab.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=560&height=45&lines=Information+Management+student;Software+development+intern;Backend+engineering+%2B+AI+applications;Laravel+%C2%B7+Next.js+%C2%B7+Python" alt="typing" />
-</a>
+<div align="center">
 
-<p>
-<a href="https://luhanspacelab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-<a href="mailto:john_lu@intellitrustme.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<img src="https://komarev.com/ghpvc/?username=ChiHanLu&style=for-the-badge&color=555555&label=views" alt="views" />
-</p>
+<a href="https://luhanspacelab.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=580&height=45&lines=Information+Management+student;Software+development+intern;Backend+engineering+%2B+AI+applications;Laravel+%C2%B7+Next.js+%C2%B7+Python" alt="typing" /></a>
 
 </div>
+
+<a href="https://luhanspacelab.vercel.app/"><img align="left" src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="mailto:john_lu@intellitrustme.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<img align="left" src="https://komarev.com/ghpvc/?username=ChiHanLu&style=for-the-badge&color=444444&label=views" alt="views" />
+
+<br clear="all" />
 
 ## About
 
@@ -27,25 +32,9 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 
 <div align="center">
 
-**Backend**<br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,mysql,ts,react,nextjs,tailwind,docker,git,vercel&theme=dark" alt="tech stack" />
 
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-
-**AI &amp; Tooling**<br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+`PHP` `Laravel` `Python` `Flask` `MySQL` · `TypeScript` `React` `Next.js` `Tailwind` · `Docker` `Git` `Vercel` · `Claude` `Gemini`
 
 </div>
 
@@ -61,15 +50,17 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 
 ## GitHub Stats
 
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChiHanLu&theme=github_dark" width="100%" alt="profile summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiHanLu&theme=github_dark" width="49%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiHanLu&theme=github_dark" width="49%" alt="most commit language" />
+<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiHanLu&theme=github_dark" alt="repos per language" />
+<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiHanLu&theme=github_dark" alt="most commit language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiHanLu&theme=github_dark" width="49%" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiHanLu&theme=github_dark&utcOffset=8" width="49%" alt="productive time" />
+<br clear="all" />
+
+<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiHanLu&theme=github_dark" alt="stats" />
+<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiHanLu&theme=github_dark&utcOffset=8" alt="productive time" />
+
+<br clear="all" />
 
 <img src="https://streak-stats.demolab.com?user=ChiHanLu&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=EA4335&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="streak" />
 
@@ -82,5 +73,3 @@ I build backend systems and wire AI into them — mostly Laravel APIs, Next.js f
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
